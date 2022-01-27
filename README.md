@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Favourgithub
 - 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Laravel Project
+- 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 How to reach me favourdamil84@gmail.com
 
 <!---
