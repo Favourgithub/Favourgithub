@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Favourgithub
+- 👋 Hi, I’m @Fav0urgithub
 - 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Laravel Projects
